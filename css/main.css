@@ -6,7 +6,7 @@ body{
 }
 
 .background-image {
-  background-image: url(*/nature_clouds_lichtspiel.jpg);
+  background-image: url(https://ohlsolar.github.io/nature_clouds_lichtspiel.jpg);
   background-size: cover;
   display: block;
   filter: blur(5px);
